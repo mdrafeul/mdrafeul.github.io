@@ -1,0 +1,33 @@
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-top: 1px dashed #b5e853;
+  padding: 20px 0;
+}
+
+.nav-header {
+  font-size: 20px;
+  display: inline;
+  text-align: center;
+  padding: 7px 14px;
+  text-decoration: none;
+}
+
+.nav-header:hover {
+  border-radius: 10px;
+  border: 2px solid #b5e853;
+  opacity: 0.8;
+}
